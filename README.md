@@ -2,6 +2,7 @@
  DashBoard with django, dash, plotly  
  predictionm with multi machine learning model(LinearRegression, SVR)  
  And, It shows data table to figure out data structuer  
+   
  Ref. https://thinkinfi.com/integrate-plotly-dash-in-django/  
       https://dash.plotly.com/  
    
